@@ -1,4 +1,4 @@
-# Hi, I'm Ryan Aparicio (RyanEAA) 👋
+# Hi, I'm Ryan Aparicio
 
 Studying Computer Science at St. Edward's University in Austin, Texas. I like building iOS apps, experimenting with machine learning, and exploring computer-vision interactions.
 
@@ -22,14 +22,6 @@ Studying Computer Science at St. Edward's University in Austin, Texas. I like bu
   https://github.com/RyanEAA/cameraMouseInteraction
 
 You can find more in my repos: https://github.com/RyanEAA?tab=repositories
-
----
-
-## Tools and languages I use
-
-- Languages: Swift, Python, JavaScript, HTML/CSS
-- Paradigms & areas: iOS development, machine learning, computer vision, data visualization
-- Tools: Xcode, Python ecosystem (Jupyter), Node.js, Docker, Git
 
 ---
 
