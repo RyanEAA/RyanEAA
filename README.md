@@ -1,12 +1,10 @@
 # Hi, I'm Ryan Aparicio
 
-Studying Computer Science at St. Edward's University in Austin, Texas. I like building iOS apps, experimenting with machine learning, and exploring computer-vision interactions.
+Studying Computer Science at St. Edward's University in Austin, Texas. I like building apps, experimenting with machine learning, and exploring computer-vision interactions.
 
 - 📍 Austin, TX
 - 🎓 CS @ St. Edward's University
-- 🧰 Focus areas: iOS (Swift), ML/AI (Python), computer vision, small games/tools
-- 🏆 GitHub: Pull Shark • PRO
-- 📚 21 public repos
+- 🧰 Focus areas: backend, iOS , and ML/AI 
 
 ---
 
